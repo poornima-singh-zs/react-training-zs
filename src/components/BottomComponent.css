@@ -1,0 +1,10 @@
+.bottom-container{
+    height: 100vh;
+    background-color: #fff;
+    border:2px solid black;
+    border-radius:10px;
+    text-align: center;
+}
+.para{
+    margin-top: 60px;
+}
